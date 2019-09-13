@@ -1,0 +1,12 @@
+<h2>Current weather in {{location.country}}</h2>
+      <img
+        class="icon"
+        src="{{current.weather_icons}}"
+        alt="Sunny"
+      />
+    
+      <p>Location: <span data-field="location">{{location.name}}</span></p>
+      <p>Temperature: <span data-field="temp">{{current.temperature}}</span></p>
+      <p>Humidity: <span data-field="humidity">{{current.humidity}}%</span></p>
+      <p>Wind: <span data-field="wind">{{current.wind_speed}}kph</span></p>
+      <p>Conditions: <span data-field="conditions">{{current.weather_descriptions}}</span></p>
