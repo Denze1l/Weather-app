@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Denze1l/10js-hm.git"
+    "url": "git+https://github.com/Denze1l/goit-js-hw-12-weather-app.git"
   },
   "keywords": [],
   "author": "Denis",
   "license": "MIT",
   "bugs": {
-    "url": "git+https://github.com/Denze1l/10js-hm.git"
+    "url": "git+https://github.com/Denze1l/goit-js-hw-12-weather-app.git"
   },
-  "homepage": "git+https://github.com/Denze1l/10js-hm.git",
+  "homepage": " https://denze1l.github.io/goit-js-hw-12-weather-app/",
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/plugin-proposal-class-properties": "^7.4.4",
